@@ -11,7 +11,7 @@ xmldom@auth0/xmldom#v0.1.19-auth0_1:
   version "0.1.19"
   resolved "https://codeload.github.com/auth0/xmldom/tar.gz/3376bc7beb5551bf68e12b0cc6b0e3669f77d392"
 
-xpath@0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/xpath/-/xpath-0.0.7.tgz#2189ab236ed32d3d2cd1cadd85991d91c135b720"
-  integrity sha1-IYmrI27TLT0s0crdhZkdkcE1tyA=
+xpath@0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/xpath/-/xpath-0.0.6.tgz#5144643faa2d54302112bdd1572a05a1d1cff364"
+  integrity sha1-UURkP6otVDAhEr3RVyoFodHP82Q=
