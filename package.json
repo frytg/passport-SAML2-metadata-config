@@ -4,7 +4,7 @@
   "description": "Metadata-based configuration of SAML login code",
   "main": "./saml2-metadata-config.js",
   "dependencies": {
-    "xpath": "0.0.6",
+    "xpath": "0.0.32",
     "xmldom": "auth0/xmldom#v0.1.19-auth0_1"
   },
   "devDependencies": {
