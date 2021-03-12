@@ -8,7 +8,7 @@
     "xmldom": "auth0/xmldom#v0.1.19-auth0_1"
   },
   "devDependencies": {
-    "@swrlab/swr-prettier-config": "^0.0.2"
+    "@swrlab/swr-prettier-config": "^0.1.2"
   },
   "prettier": "@swrlab/swr-prettier-config",
   "engines": {
